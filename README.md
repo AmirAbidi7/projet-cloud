@@ -1,6 +1,7 @@
 # Restaurant Ordering System 🍽️
 
-⭐ **Give a star if you like it!**
+Taken from https://github.com/Quanghihicoder/restaurant-ordering-system
+give him credit pls, I just used it to pass my project
 
 ## Docker (latest code):
 
@@ -41,4 +42,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📄 License
 
 This project is licensed under the terms of the LICENSE file.
-
